@@ -4,8 +4,6 @@ __*Curso:*__ *ABI - Ciência da computação*
 
 __*Aluno:*__ *João Pedro Amaral Bonfim*
 
-__*Matrícula:*__ *211057600027*
-
 __*Turma:*__ *A*
 
 ## *Sobre o projeto*
